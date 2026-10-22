@@ -1,7 +1,7 @@
 # 📊 Customer & Marketing Analytics
 
 An end-to-end data analytics project exploring retail customer behavior, revenue performance, and customer segmentation using Python, PostgreSQL, SQL, and Power BI.
-<img width="1233" height="735" alt="dashboard" src="https://github.com/user-attachments/assets/d48ba33b-33b6-4fc4-8e02-14720c22a532" />
+<img width="1200" height="677" alt="Capture d&#39;écran 2026-10-22 120100" src="https://github.com/user-attachments/assets/c5f9d38c-7268-4f2a-9cb8-8af4d16b1bbb" />
 
 ## 🎯 Project Overview
 
